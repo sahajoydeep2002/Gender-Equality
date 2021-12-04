@@ -84,4 +84,4 @@ If we worked together as a team, acknowledge everyone's opinions and ideas, use 
 ## What's next for Study Of Gender Equality Around The World
 Data Visualization gives a clear idea about the information and makes it easier to identify trends and patterns. Our team will focus on creating more projects related to data study by taking up different social issues and having realized how far away from gender parity is we need to actively work towards making this world a safe, inclusive and equal world for all genders, mostly women and non-binary folks.
 
-## Dataset Used: (http://archive.ipu.org/wmn-e/classif.htm)
+## Dataset Used: http://archive.ipu.org/wmn-e/classif.htm
