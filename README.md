@@ -20,6 +20,13 @@ We designed it using HTML, CSS and Javascript and implemented the code in Visual
 ## Challenges we ran into
 We are beginners at data visualization, so we managed to learn new things and implement them successfully.
 
+## Visualization
+
+![](https://github.com/sahajoydeep2002/Gender-Equality/blob/main/Images/Image%203.png)
+<h4 align = "center" font = "">2-D Representation of Youth Literacy Rate</h4>
+
+
+
 ## Accomplishments that we're proud of
 We successfully collected and visualized our data and completed our study to the conclusion that there has been significant improvement and women occupy more spaces than before, but the progress is excruciatingly slow.
 
